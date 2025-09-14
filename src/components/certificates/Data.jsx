@@ -13,7 +13,7 @@ import Sam from "../../Assets/assets/sam.jpeg"
 
 import CV from "../../Assets/assets/Resume PS.pdf";
 import GFG from "../../Assets/certificates/GFG.pdf";
-import SI from "../../Assets/certificates/simpli.pdf";
+import SI from "../../Assets/certificates/Simpli.pdf";
 import Dev from "../../Assets/certificates/devoic.pdf";
 import JP from "../../Assets/certificates/JP Morgan.pdf";
 import Mg from "../../Assets/certificates/mongo.pdf";
